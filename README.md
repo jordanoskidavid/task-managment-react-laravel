@@ -1,2 +1,2 @@
 # X-GATE
-task
+Full-stack developer task
